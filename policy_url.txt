@@ -1,4 +1,4 @@
-<html>
+ 
 
 Privacy Policy of Mobile Sample App (used on help docs)
 
@@ -34,7 +34,7 @@ Camera is used only for capturing image for text recognition against keyword for
 
 Images are not stored.
 
-Imges only used inside Apps for keyword searching.
+Images only used inside Apps for keyword searching.
    
 
 
@@ -48,5 +48,5 @@ Should the changes affect processing activities performed on the basis of the Us
 Latest update: Jan 29, 2021
 
 
-</html>
+ 
  
