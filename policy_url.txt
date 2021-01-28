@@ -1,0 +1,52 @@
+<html>
+
+Privacy Policy of Mobile Sample App (used on help docs)
+
+
+
+This Application did not collect Personal Data from its Users.
+
+Camera is used only for capturing image for text recognition against keyword for searching purpose.
+
+This document can be printed for reference by using the print command in the settings of any browser.
+
+App Owner contact email: cshwk1995@gmail.com
+
+
+
+Types of Data collected 
+
+None
+ 
+
+
+Mode and place of processing the Data
+
+Methods of processing
+
+Camera is used only for capturing image for text recognition against keyword for searching purpose.
+
+
+
+Retention time
+
+Camera is used only for capturing image for text recognition against keyword for searching purpose.
+
+Images are not stored.
+
+Imges only used inside Apps for keyword searching.
+   
+
+
+Changes to this privacy policy
+
+The Owner reserves the right to make changes to this privacy policy at any time by notifying its Users on this page and possibly within this Application and/or - as far as technically and legally feasible - sending a notice to Users via any contact information available to the Owner. It is strongly recommended to check this page often, referring to the date of the last modification listed at the bottom.
+
+Should the changes affect processing activities performed on the basis of the User’s consent, the Owner shall collect new consent from the User, where required.
+
+
+Latest update: Jan 29, 2021
+
+
+</html>
+ 
