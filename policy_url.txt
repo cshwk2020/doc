@@ -3,7 +3,6 @@
 Privacy Policy of Mobile App ( Live Camera Keyword Search )
 
 
-
 This Application did not collect Personal Data from its Users.
 
 Camera is used only for capturing image for text recognition against keyword for searching purpose.
