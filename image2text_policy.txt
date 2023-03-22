@@ -1,0 +1,10 @@
+Privacy, Deception and Device Abuse 
+     
+We declared that Image To Text Apps do NOT distribute any user data outside of the Apps.
+ 
+The primary Apps users supposed to be users where they translate their images to text. All the images are processed inside the app to text. No content is used within the app.
+
+There is no data distributed or used outside the Apps. All images captured ONLY stayed in user device storage.
+Also, there is no Ads, and also not a news Apps.
+
+CodingMama Team
