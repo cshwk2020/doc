@@ -1,0 +1,14 @@
+Privacy, Deception and Device Abuse 
+     
+We declared that Folder Shortcuts Apps do NOT distribute any user data outside of the Apps.
+ 
+The primary Apps users supposed to be users where they have many folders but they only use few of folders for most of the time. They might use our Apps to create shortcuts to those frequently used folders in widget placed in home screen for faster access to open the target file(s) inside the folder.
+
+There is no data distributed or used outside the Apps.
+All shortcut folders are selected by users and they then decide which file to use.
+
+Also, there is no Ads, and also not a news Apps.
+
+
+Enjoy shortcut-ing your frequently used folders,
+CodingMama Team
